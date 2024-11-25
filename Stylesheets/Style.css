@@ -292,13 +292,11 @@ body, html {
     width: 25%;
 }
 
-
 .centerfoo h5:hover {
     border-bottom: 1px solid white;
     transform: translateY(-7px);
     opacity: 0.5;
 }
-
 
 .rightfoo {
     height: 30vh;
@@ -314,7 +312,7 @@ body, html {
     color: rgb(0, 0, 0);
     padding: 0.8vh 0.9vw;
     border-radius: 50%;
-    background-color: #ffffff;
+    background-color: #dfdfdf;
     transition: all ease-in-out 0.4s;
 }
 
