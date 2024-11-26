@@ -1,3 +1,4 @@
+Design-Animated-Website
 
 Design is a visually stunning website built with HTML, CSS, JavaScript, GSAP (for animations), and Locomotive.js (for smooth scrolling). This website aims to provide an immersive and interactive user experience with smooth transitions and engaging animations.
 
