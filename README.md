@@ -1,5 +1,5 @@
 Design - Animated Website
-Design is a visually stunning and interactive website built with HTML, CSS, JavaScript, GSAP, and Locomotive.js. It delivers an immersive user experience through smooth transitions, modern design, and engaging animations.
+Design is a visually stunning and interactive website built with HTML, CSS, JavaScript, GSAP, and Locomotive.js. It offers an immersive user experience with smooth transitions, modern design, and engaging animations.
 
 🌐 Live Demo
 Experience the website live: Design Live Demo
@@ -9,24 +9,24 @@ Responsive Layout
 Designed to adapt seamlessly to all screen sizes, ensuring a great user experience on any device.
 
 Smooth Scrolling
-Implemented with Locomotive.js, providing buttery-smooth scrolling and enhanced navigation.
+Powered by Locomotive.js, providing buttery-smooth scrolling and enhancing navigation.
 
 Dynamic Animations
-GSAP powers visually appealing animations, making interactions lively and engaging.
+Created using GSAP to deliver visually appealing and interactive effects.
 
 Modern Design
-A clean, user-friendly layout with a professional aesthetic that captivates visitors.
+Features a clean, user-friendly layout with a professional and captivating aesthetic.
 
 🛠️ Technologies Used
 Technology	Purpose
 HTML5	Structuring the content of the website.
 CSS3	Styling the layout with Flexbox and Grid.
 JavaScript	Adding interactivity and functionality.
-GSAP	Creating advanced animations.
-Locomotive.js	Smooth scrolling and scroll-based effects.
-GitHub Pages	Hosting the website online.
+GSAP	Creating seamless and advanced animations.
+Locomotive.js	Implementing smooth scrolling and effects.
+GitHub Pages	Hosting the project online.
 🖥️ Installation
-Follow these steps to run the project locally:
+To run the project locally, follow these steps:
 
 Clone the repository
 Open your terminal and run:
@@ -40,4 +40,4 @@ bash
 Copy code
 cd Design-Animated-Website
 Open the project
-Simply open the index.html file in your browser to explore the site.
+Open the index.html file in your browser to explore the website.
