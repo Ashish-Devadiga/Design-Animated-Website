@@ -1,31 +1,43 @@
-Design-Animated-Website
+Design - Animated Website
+Design is a visually stunning and interactive website built with HTML, CSS, JavaScript, GSAP, and Locomotive.js. It delivers an immersive user experience through smooth transitions, modern design, and engaging animations.
 
-Design is a visually stunning website built with HTML, CSS, JavaScript, GSAP (for animations), and Locomotive.js (for smooth scrolling). This website aims to provide an immersive and interactive user experience with smooth transitions and engaging animations.
+🌐 Live Demo
+Experience the website live: Design Live Demo
 
-## Live Demo
+🚀 Features
+Responsive Layout
+Designed to adapt seamlessly to all screen sizes, ensuring a great user experience on any device.
 
-Check out the live demo of the website here: [Design Live Demo](https://design-animated-website.onrender.com)
+Smooth Scrolling
+Implemented with Locomotive.js, providing buttery-smooth scrolling and enhanced navigation.
 
-## Features
+Dynamic Animations
+GSAP powers visually appealing animations, making interactions lively and engaging.
 
-- **Responsive Layout**: The website is fully responsive, ensuring an optimal viewing experience across all devices.
-- **Smooth Scrolling**: Powered by Locomotive.js, the website provides smooth scrolling, enhancing navigation.
-- **Animations**: GSAP is used to create smooth, dynamic animations that make the site feel interactive.
-- **Modern Design**: A clean and modern design with user-friendly navigation and visual appeal.
+Modern Design
+A clean, user-friendly layout with a professional aesthetic that captivates visitors.
 
-## Technologies Used
+🛠️ Technologies Used
+Technology	Purpose
+HTML5	Structuring the content of the website.
+CSS3	Styling the layout with Flexbox and Grid.
+JavaScript	Adding interactivity and functionality.
+GSAP	Creating advanced animations.
+Locomotive.js	Smooth scrolling and scroll-based effects.
+GitHub Pages	Hosting the website online.
+🖥️ Installation
+Follow these steps to run the project locally:
 
-- **HTML5**: For structuring the website content.
-- **CSS3**: For styling and layout, utilizing Flexbox and Grid.
-- **JavaScript**: For interactive elements and animations.
-- **GSAP**: For creating smooth and complex animations.
-- **Locomotive.js**: For smooth scrolling and scroll-based animations.
-- **GitHub Pages**: For hosting the site online.
+Clone the repository
+Open your terminal and run:
 
-## Installation
+bash
+Copy code
+git clone https://github.com/Ashish-Devadiga/Design-Animated-Website.git
+Navigate to the project folder
 
-To run the project locally:
-
-1. Clone the repository:
-   ```bash
-   https://github.com/Ashish-Devadiga/Design-Animated-Website.git
+bash
+Copy code
+cd Design-Animated-Website
+Open the project
+Simply open the index.html file in your browser to explore the site.
