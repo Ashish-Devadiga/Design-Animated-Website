@@ -62,4 +62,4 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/duo-studio-clone.git
+   https://github.com/Ashish-Devadiga/Design-Animated-Website.git
