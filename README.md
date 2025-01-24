@@ -2,6 +2,8 @@
 
 Design is a visually stunning website built with HTML, CSS, JavaScript, GSAP (for animations), and Locomotive.js (for smooth scrolling). This website aims to provide an immersive and interactive user experience with smooth transitions and engaging animations.
 
+![Image](https://i.pinimg.com/736x/91/8f/27/918f2736bcf4daa284b7eace1339dc0b.jpg)
+
 ## Live Demo
 
 Check out the live demo of the website here: [Design Live Demo](https://design-animated-website.onrender.com)
