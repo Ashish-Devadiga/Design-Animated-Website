@@ -29,7 +29,7 @@ Check out the live demo of the website here: [Design Live Demo](https://design-a
 ![Pinterest Image](https://i.pinimg.com/736x/d7/ad/e7/d7ade75a1e62a988eb5ec0506754c159.jpg)
 
 ## Mobile View
-![Pinterest Image](https://i.pinimg.com/736x/d7/ad/e7/d7ade75a1e62a988eb5ec0506754c159.jpg)
+![Pinterest Image](https://i.pinimg.com/474x/91/8e/30/918e3068dc4133f6bdf42ba84f63b84b.jpg)
 ![Pinterest Image](https://i.pinimg.com/474x/06/4a/4e/064a4e17f5a3df1ee857753d94367529.jpg)
 
 
