@@ -23,7 +23,7 @@ Check out the live demo of the website here: [Design Live Demo](https://design-a
 - **GitHub Pages**: For hosting the site online.
 
 ## Images
-![Preview](https://pin.it/1SalgKS63)
+![Preview](<iframe src="https://assets.pinterest.com/ext/embed.html?id=1056657131322803301" height="295" width="345" frameborder="0" scrolling="no" ></iframe>)
 
 
 
