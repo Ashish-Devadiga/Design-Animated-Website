@@ -22,6 +22,11 @@ Check out the live demo of the website here: [Design Live Demo](https://design-a
 - **Locomotive.js**: For smooth scrolling and scroll-based animations.
 - **GitHub Pages**: For hosting the site online.
 
+## Images
+![Preview](https://pin.it/1SalgKS63)
+
+
+
 ## Installation
 
 To run the project locally:
